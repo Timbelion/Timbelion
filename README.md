@@ -11,14 +11,6 @@ Web technologies
 
 [![My Skills](https://skillicons.dev/icons?i=py,django,heroku,sqlite,html,css,figma)](https://skillicons.dev)
 
-My Games
-- [Planet Jumper](https://www.crazygames.com/game/planet-jumper)
-- [Birdfall](https://www.crazygames.com/game/birdfall)
-- [Melon Hit](https://play.google.com/store/apps/details?id=com.PriorGames.MelonHit)
-
-Itch profile
-- https://timbelion.itch.io/
-
 
 <!--
 **Timbelion/Timbelion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
