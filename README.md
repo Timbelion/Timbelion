@@ -1,15 +1,19 @@
 ### Timbelion 👋
-- 🔭Game developer & AI enthusiast
-- ⚡Building mobile & desktop games
+- 🔭AI enthusiast
+- ⚡Building apps & games
 - 🌱Learning AI and Web development in free time
 
 Game development technologies
 
-[![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,blender,ps,pr)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=unity,cs,cpp,blender)](https://skillicons.dev)
 
 Web technologies
 
-[![My Skills](https://skillicons.dev/icons?i=py,django,heroku,sqlite,html,css,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,django,tailwind,react,sqlite,html,css,figma)](https://skillicons.dev)
+
+AI technologies
+
+[![My Skills](https://skillicons.dev/icons?i=pytorch,tensorflow)](https://skillicons.dev)
 
 
 <!--
